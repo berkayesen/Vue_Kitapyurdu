@@ -1,0 +1,23 @@
+<template>
+  <div>
+    <Navbar></Navbar>
+    <Carousel/>
+    <br>
+    <br>
+    <Card></Card>
+    <br>
+    <br>
+    <br>
+    <br>
+    <BookCarousel></BookCarousel>
+    <br>
+    <br>
+    <br>
+    <br>
+    <Categories></Categories>
+    <br>
+    <br>
+    <br>
+    <Footer></Footer>
+  </div>
+</template>
